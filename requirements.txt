@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+shap
+joblib
+folium
+streamlit-folium
+xgboost
